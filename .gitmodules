@@ -7,3 +7,6 @@
 [submodule "opensource/nng"]
 	path = opensource/nng
 	url = git@github.com:nanomsg/nng.git
+[submodule "opensource/sdplog"]
+	path = opensource/sdplog
+	url = git@github.com:gabime/spdlog.git
