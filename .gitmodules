@@ -1,0 +1,9 @@
+[submodule "opensource/asio"]
+	path = opensource/asio
+	url = git@github.com:chriskohlhoff/asio.git
+[submodule "opensource/json"]
+	path = opensource/json
+	url = git@github.com:open-source-parsers/jsoncpp.git
+[submodule "opensource/nng"]
+	path = opensource/nng
+	url = git@github.com:nanomsg/nng.git
